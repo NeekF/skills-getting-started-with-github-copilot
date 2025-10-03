@@ -1,3 +1,33 @@
+/* Participants section styling */
+.participants-section {
+  margin-left: 24px;
+  margin-top: 10px;
+}
+
+.participants-title {
+  display: block;
+  margin-bottom: 6px;
+  color: #3949ab;
+}
+
+.participants-list {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.participant-item {
+  margin-bottom: 4px;
+  color: #333;
+  background: #eef2fa;
+  border-radius: 3px;
+  padding: 2px 8px;
+}
+
+.no-participants {
+  color: #888;
+  font-style: italic;
+  margin-left: 8px;
+}
 * {
   box-sizing: border-box;
   margin: 0;
